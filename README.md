@@ -159,7 +159,7 @@ node SeedDatabase.js
 
 ## 👩‍💻 Developed By
 
-**Sri Vyshnavi Gadamsetty** and team  
-Made with ❤️ from Vijayawada
+**Mareedu Jyothi Sai Swaroop** and team  
+Made with ❤️ from Yanamalakuduru
 
 ---
